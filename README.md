@@ -11,6 +11,6 @@ How to run on your local machine.
 Run the following command in the terminal of the directory in which you want to clone the app.
 
 ```bash
-  https://github.com/Ranjanku/Drum-kit.git
+  git clone https://github.com/Ranjanku/Drum-kit.git
 ```
 
